@@ -1,0 +1,31 @@
+.textarea{
+
+    width: 600px;
+    height: 20vh;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    margin: 160px  300px 0 ;
+    padding: 10px 10px;
+    
+} 
+
+
+/* .btn{
+    background-color: #5181b8;;
+    width: 110px;
+    height: 5vh;
+    border: 1px solid #5181b8; 
+    border-radius: 4px;
+    margin: 60px;
+    margin-left: 60px;
+    left: 0%;
+   color: #e1e3e6;
+   cursor: pointer;
+   margin: 10px 300px
+   
+} */
+
+.btn:active {
+    background-color: rgb(86, 125, 86);
+}
+
